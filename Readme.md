@@ -33,7 +33,11 @@ Learning) curriculum, checked against the newly released R25 regulation.
 - **Downloaded/verified for this report:** 14 September 2026
 
 > **College:** JNTUH College of Engineering, Sultanpur
+
+
 > **Branch:** CSE (Artificial Intelligence & Machine Learning)
+
+
 > (Roll number intentionally omitted — this repo is public.)
 
 ---
