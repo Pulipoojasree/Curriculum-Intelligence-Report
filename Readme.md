@@ -1,7 +1,7 @@
 # CSE (AI & ML) 2030 Curriculum Redesign
 
-Live site: `<add your GitHub Pages / Vercel / Netlify URL here>`
-Repo: `<add your public GitHub repo URL here>`
+Live site: `https://pulipoojasree.github.io/Curriculum-Intelligence-Report/`
+Repo: `https://github.com/Pulipoojasree/Curriculum-Intelligence-Report.git`
 
 This repository contains the raw research, source citations, AI-prompt log, and
 the interactive site (`index.html`, `styles.css`, `script.js`) for a rebalancing
