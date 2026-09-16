@@ -30,10 +30,11 @@ Learning) curriculum, checked against the newly released R25 regulation.
 - **Regulation:** R22
 - **Official syllabus document:** B.Tech. in Computer Science and Engineering (AI & ML), Course Structure & Syllabus (R22 Regulations)
 - **Source URL:** https://jntuh.ac.in/uploads/academics/R22B.Tech.CSE%28AIML%29CourseStructureSyllabus1.pdf
-- **Downloaded/verified for this report:** 15 September 2026
+- **Downloaded/verified for this report:** 14 September 2026
 
-> Fill in your own college name and roll-number branch code here if your
-> report requires it — this repo deliberately keeps that detail out.
+> **College:** JNTUH College of Engineering, Sultanpur
+> **Branch:** CSE (Artificial Intelligence & Machine Learning)
+> (Roll number intentionally omitted — this repo is public.)
 
 ---
 
